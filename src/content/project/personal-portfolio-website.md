@@ -6,7 +6,7 @@ image:
   alt: ""
 timestamp: 2023-10-21
 description: You are looking at it now! A rebuilt of my personal portfolio website using Astro, TailwindCSS and Netlify
-demoLink: https://github.com/Gaius-1/Portfolio
+demoLink: https://portfolio-gaius-1.vercel.app/
 codeLink: https://github.com/Gaius-1/Portfolio
 ---
 
