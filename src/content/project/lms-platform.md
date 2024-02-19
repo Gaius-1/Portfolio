@@ -7,7 +7,6 @@ image:
 timestamp: 2023-12-11
 description: LMS Platform for IT students in Abbeam University where I lecture Information Technology...
 
-codeLink: https://github.com/Gaius-1/LMS
 demoLink: https://lms-gaius-1.vercel.app/
 ---
 ## Learning Management System Web Application Platform I built for Abbeam University

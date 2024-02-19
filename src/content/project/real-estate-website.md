@@ -6,8 +6,7 @@ image:
   alt: ""
 timestamp: 2023-12-13
 description: Successfully delivered a comprehensive solution for a Real Estate Firm specializing in property sales. 
-demoLink: https://www.scoa2restate.com/
-codeLink: https://github.com/Gaius-1/SCOA
+demoLink: https://scoa-zkfz.vercel.app/
 ---
 
 Successfully delivered a comprehensive solution for a real estate firm specializing in property sales. The platform showcases available projects, allowing users to schedule visits at their convenience. Users can engage with projects by liking them, unlocking personalized promotions and discounted offers tailored to their preferences.

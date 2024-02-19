@@ -1,6 +1,6 @@
 ---
 title: AGC Website + Admin Portal
-tags: [NodeJS, HTML5, Bootstrap, JS, Strapi]
+tags: [NodeJS, HTML5, Bootstrap, Strapi]
 image:
   src: /images/AGC-Web.jpeg
   alt: "AGC Fullstack Website"
