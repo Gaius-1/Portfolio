@@ -19,7 +19,7 @@ demoLink: https://evently-eta-lovat.vercel.app/
   
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+## 📋 <a name="table"><span class="terminal-green">**Table of Contents**</span></a>
 
 1. 🤖 [<span class="text-terminal-green">Introduction</span>](#introduction)
 2. ⚙️ [<span class="text-terminal-green">Tech Stack</span>](#tech-stack)
@@ -28,11 +28,11 @@ demoLink: https://evently-eta-lovat.vercel.app/
 5. 🕸️ [<span class="text-terminal-green">Snippets</span>](#snippets)
 6. 🔗 [<span class="text-terminal-green">Links</span>](#links)
 
-## <a name="introduction">🤖 **<span class="text-terminal-green">Introduction</span>**</a>
+## <a name="introduction">🤖 **<span class="terminal-green">**Introduction**</span>**</a>
 
 Built on Next.js 14, the events application stands as a comprehensive, full-stack platform for organizing and managing events. It serves as a hub, spotlighting diverse events taking place globally. Featuring seamless payment processing through Stripe, you have the capability to purchase tickets for any event or even initiate and manage your own events.
 
-## <a name="tech-stack">⚙️ **<span class="text-terminal-green">Tech Stack</span>**</a>
+## <a name="tech-stack">⚙️ **<span class="terminal-green">**Tech Stack**</span>**</a>
 
 - Node.js
 - Next.js
@@ -44,7 +44,7 @@ Built on Next.js 14, the events application stands as a comprehensive, full-stac
 - Shadcn
 - uploadthing
 
-## <a name="features">🔋 **<span class="text-terminal-green">Features</span>**</a>
+## <a name="features">🔋 **<span class="terminal-green">**Features**</span>**</a>
 
 👉 **Authentication (CRUD) with Clerk:** User management through Clerk, ensuring secure and efficient authentication.
 
@@ -70,7 +70,7 @@ Built on Next.js 14, the events application stands as a comprehensive, full-stac
 
 and many more, including code architecture and reusability 
 
-## <a name="quick-start">🤸 **<span class="text-terminal-green">Quick Start</span>**</a>
+## <a name="quick-start">🤸 **<span class="terminal-green">**Quick Start**</span>**</a>
 
 Follow these steps to set up the project locally on your machine.
 
@@ -138,7 +138,7 @@ npm start
 Open [<span class="text-terminal-green">http://localhost:3000</span>](http://localhost:3000) in your browser to view the project.
 
 
-## <a name="snippets">🕸️ **<span class="text-terminal-green">Snippets</span>**</a>
+## <a name="snippets">🕸️ **<span class="terminal-green">**Snippets**</span>**</a>
 
 <details>
 <summary><code><span class="text-terminal-green">globals.css</span></code></summary>
@@ -1330,6 +1330,6 @@ export default Orders
 
 </details>
 
-## <a name="links">🔗 **<span class="text-terminal-green">Links</span>**</a>
+## <a name="links">🔗 **<span class="terminal-green">**Links**</span>**</a>
 
 All assets used in the project can be found [<span class="text-terminal-green">here</span>](https://drive.google.com/file/d/1hoRwUtTFIiuOXPw-SDYj6wk4hZTMcYmL/view?usp=sharing)
